@@ -1,0 +1,6 @@
+{
+  "name": "storyteller-word-games",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
